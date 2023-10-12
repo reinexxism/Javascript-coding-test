@@ -17,5 +17,5 @@ console.log(solution([5, 7, 8, 3])); // output: 0
 
 /*
 Feeling
-- map()을 써볼까.. 했지만 그것보다 더 간단하고 가독성 좋은 reduce() 함수
+- map()을 써볼까.. 했지만 그것보다 더 간단하고 가독성 좋은 reduce() 함수 앞으로 애용하자
 */
