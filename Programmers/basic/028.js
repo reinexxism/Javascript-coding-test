@@ -23,4 +23,4 @@ function solution(numLog) {
 console.log(solution([0, 1, 0, 10, 0, 1, 0, 10, 0, -1, -2, -1])); // output: "wsdawsdassw"
 
 // switch문을 사용해도 괜찮을 것 같지만, 삼항 조건 연산자를 사용해서 하는게 좀 더 편한 것 같기도..
-// 좀 더 간결한 방법을 사용할 것.. 분발해라
+// 좀 더 간결한 방법을 사용할 것.. 분발하자
