@@ -1,4 +1,4 @@
-// 037. 주사위 게임(3) copy
+// 037. 주사위 게임(3)
 
 function solution(a, b, c, d) {
   let temp = "";
