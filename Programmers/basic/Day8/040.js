@@ -21,4 +21,4 @@ console.log(
     [5, 9],
     [6, 10],
   ])
-); //output: "programmers"
+); // output: "programmers"
